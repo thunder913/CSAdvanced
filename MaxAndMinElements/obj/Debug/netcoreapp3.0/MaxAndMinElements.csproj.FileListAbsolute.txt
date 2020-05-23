@@ -1,0 +1,11 @@
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\obj\Debug\netcoreapp3.0\MaxAndMinElements.csprojAssemblyReference.cache
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\obj\Debug\netcoreapp3.0\MaxAndMinElements.AssemblyInfoInputs.cache
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\obj\Debug\netcoreapp3.0\MaxAndMinElements.AssemblyInfo.cs
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\bin\Debug\netcoreapp3.0\MaxAndMinElements.exe
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\bin\Debug\netcoreapp3.0\MaxAndMinElements.deps.json
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\bin\Debug\netcoreapp3.0\MaxAndMinElements.runtimeconfig.json
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\bin\Debug\netcoreapp3.0\MaxAndMinElements.runtimeconfig.dev.json
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\bin\Debug\netcoreapp3.0\MaxAndMinElements.dll
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\bin\Debug\netcoreapp3.0\MaxAndMinElements.pdb
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\obj\Debug\netcoreapp3.0\MaxAndMinElements.dll
+C:\Users\Andon\source\repos\ConsoleApp3\MaxAndMinElements\obj\Debug\netcoreapp3.0\MaxAndMinElements.pdb

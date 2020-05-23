@@ -1,0 +1,11 @@
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Problem1.exe
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Problem1.deps.json
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Problem1.runtimeconfig.json
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Problem1.runtimeconfig.dev.json
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Problem1.dll
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\Problem1.pdb
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Problem1.csprojAssemblyReference.cache
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Problem1.AssemblyInfoInputs.cache
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Problem1.AssemblyInfo.cs
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Problem1.dll
+C:\Users\Andon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\Problem1.pdb

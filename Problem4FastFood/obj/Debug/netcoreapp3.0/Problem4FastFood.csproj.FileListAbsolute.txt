@@ -1,0 +1,11 @@
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\bin\Debug\netcoreapp3.0\Problem4FastFood.exe
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\bin\Debug\netcoreapp3.0\Problem4FastFood.deps.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\bin\Debug\netcoreapp3.0\Problem4FastFood.runtimeconfig.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\bin\Debug\netcoreapp3.0\Problem4FastFood.runtimeconfig.dev.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\bin\Debug\netcoreapp3.0\Problem4FastFood.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\bin\Debug\netcoreapp3.0\Problem4FastFood.pdb
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\obj\Debug\netcoreapp3.0\Problem4FastFood.csprojAssemblyReference.cache
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\obj\Debug\netcoreapp3.0\Problem4FastFood.AssemblyInfoInputs.cache
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\obj\Debug\netcoreapp3.0\Problem4FastFood.AssemblyInfo.cs
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\obj\Debug\netcoreapp3.0\Problem4FastFood.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem4FastFood\obj\Debug\netcoreapp3.0\Problem4FastFood.pdb
