@@ -1,0 +1,10 @@
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\bin\Debug\netcoreapp3.0\Problem8BalancedParanthesis.exe
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\bin\Debug\netcoreapp3.0\Problem8BalancedParanthesis.deps.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\bin\Debug\netcoreapp3.0\Problem8BalancedParanthesis.runtimeconfig.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\bin\Debug\netcoreapp3.0\Problem8BalancedParanthesis.runtimeconfig.dev.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\bin\Debug\netcoreapp3.0\Problem8BalancedParanthesis.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\bin\Debug\netcoreapp3.0\Problem8BalancedParanthesis.pdb
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\obj\Debug\netcoreapp3.0\Problem8BalancedParanthesis.AssemblyInfoInputs.cache
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\obj\Debug\netcoreapp3.0\Problem8BalancedParanthesis.AssemblyInfo.cs
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\obj\Debug\netcoreapp3.0\Problem8BalancedParanthesis.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem8BalancedParanthesis\obj\Debug\netcoreapp3.0\Problem8BalancedParanthesis.pdb

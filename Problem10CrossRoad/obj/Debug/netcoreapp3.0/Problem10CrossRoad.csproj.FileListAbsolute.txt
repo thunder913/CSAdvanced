@@ -1,0 +1,10 @@
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\bin\Debug\netcoreapp3.0\Problem10CrossRoad.exe
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\bin\Debug\netcoreapp3.0\Problem10CrossRoad.deps.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\bin\Debug\netcoreapp3.0\Problem10CrossRoad.runtimeconfig.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\bin\Debug\netcoreapp3.0\Problem10CrossRoad.runtimeconfig.dev.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\bin\Debug\netcoreapp3.0\Problem10CrossRoad.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\bin\Debug\netcoreapp3.0\Problem10CrossRoad.pdb
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\obj\Debug\netcoreapp3.0\Problem10CrossRoad.AssemblyInfoInputs.cache
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\obj\Debug\netcoreapp3.0\Problem10CrossRoad.AssemblyInfo.cs
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\obj\Debug\netcoreapp3.0\Problem10CrossRoad.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem10CrossRoad\obj\Debug\netcoreapp3.0\Problem10CrossRoad.pdb
