@@ -1,0 +1,11 @@
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\bin\Debug\netcoreapp3.0\Problem7TruckTour.exe
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\bin\Debug\netcoreapp3.0\Problem7TruckTour.deps.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\bin\Debug\netcoreapp3.0\Problem7TruckTour.runtimeconfig.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\bin\Debug\netcoreapp3.0\Problem7TruckTour.runtimeconfig.dev.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\bin\Debug\netcoreapp3.0\Problem7TruckTour.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\bin\Debug\netcoreapp3.0\Problem7TruckTour.pdb
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\obj\Debug\netcoreapp3.0\Problem7TruckTour.csprojAssemblyReference.cache
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\obj\Debug\netcoreapp3.0\Problem7TruckTour.AssemblyInfoInputs.cache
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\obj\Debug\netcoreapp3.0\Problem7TruckTour.AssemblyInfo.cs
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\obj\Debug\netcoreapp3.0\Problem7TruckTour.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem7TruckTour\obj\Debug\netcoreapp3.0\Problem7TruckTour.pdb
