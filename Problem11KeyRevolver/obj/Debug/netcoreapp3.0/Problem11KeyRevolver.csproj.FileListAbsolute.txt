@@ -1,0 +1,11 @@
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\bin\Debug\netcoreapp3.0\Problem11KeyRevolver.exe
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\bin\Debug\netcoreapp3.0\Problem11KeyRevolver.deps.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\bin\Debug\netcoreapp3.0\Problem11KeyRevolver.runtimeconfig.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\bin\Debug\netcoreapp3.0\Problem11KeyRevolver.runtimeconfig.dev.json
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\bin\Debug\netcoreapp3.0\Problem11KeyRevolver.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\bin\Debug\netcoreapp3.0\Problem11KeyRevolver.pdb
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\obj\Debug\netcoreapp3.0\Problem11KeyRevolver.csprojAssemblyReference.cache
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\obj\Debug\netcoreapp3.0\Problem11KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\obj\Debug\netcoreapp3.0\Problem11KeyRevolver.AssemblyInfo.cs
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\obj\Debug\netcoreapp3.0\Problem11KeyRevolver.dll
+C:\Users\Andon\source\repos\ConsoleApp3\Problem11KeyRevolver\obj\Debug\netcoreapp3.0\Problem11KeyRevolver.pdb
